@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Mikhail
-  <img src="https://github.com/Mikhail39yanovHi.gif" height="32" />
+  <img src="https://github.com/Mikhail39yanov/Hi.gif" height="32" />
 </h1>
 
 <a href="https://github.com/Mikhail39yanov">
