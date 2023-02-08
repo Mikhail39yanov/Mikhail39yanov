@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent)](https://github.com/Mikhail39yanov)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent)](https://github.com/Mikhail39yanov)
 
-![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent)
+![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent) -->
 
 <!-- [![Mikhail wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/dashboard)) -->
 
