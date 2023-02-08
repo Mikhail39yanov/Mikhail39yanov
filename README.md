@@ -15,6 +15,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
 
+<a href="https://github.com/Mikhail39yanov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
+
+  <img align="center" src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/codeStats.svg" alt="My Coding Activity" />
+</a>
 
 >
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +51,7 @@
 [![Mikhail wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/dashboard))
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhail39yanov&repo=internet-agency-solution)](https://github.com/Mikhail39yanov/internet-agency-solution) -->
-<img src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/codeStats.svg" alt="My Coding Activity/>
+
 
 <!--
 **Mikhail39yanov/Mikhail39yanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
