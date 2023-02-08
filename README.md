@@ -5,7 +5,6 @@
 
 <h2 align="center">
   It is very easy to make complex from simple. From the complex - simple, almost impossible.
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=3000&color=F7F7F7&width=435&lines=It+is+very+easy+to+make+complex+from+simple.+From+the+complex+-+simple%2C+almost+impossible." alt="Typing SVG" /></a>
 </h2>
 
 
