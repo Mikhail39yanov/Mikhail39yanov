@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=radical)
+![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&&theme=transparent)
 
 [![Mikhail wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/dashboard))
 
