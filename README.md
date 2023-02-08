@@ -34,7 +34,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-GitHub Stats
+
+<h2>
+  GitHub Stats
+</h2>
 <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
 </a>
