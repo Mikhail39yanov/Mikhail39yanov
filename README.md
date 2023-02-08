@@ -3,9 +3,7 @@
 </h1>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail39yanov)](https://wakatime.com/dashboard)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhail&repo=internet-agency-solution)](https://github.com/Mikhail39yanov/internet-agency-solution)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail)](https://wakatime.com/dashboard)
  
 
 <h2 align="center">
