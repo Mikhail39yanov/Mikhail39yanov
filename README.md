@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-<ul style="list-style: none;display: flex; height: 100%;">
-  <li style="height: 100%; margin-right: 10px;">
-    <a style="display: block;" href="https://github.com/Mikhail39yanov">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
-    </a>
-  </li>
-  <li style="height: 100%;">
-    <a style="display: block;" href="https://github.com/Mikhail39yanov">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
-    </a>
-  </li>
-</ul>
-
+<a href="https://github.com/Mikhail39yanov">
+  <img align src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
+</a>
+<a href="https://github.com/Mikhail39yanov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
+</a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent)](https://github.com/Mikhail39yanov)
 
 ![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent) -->
