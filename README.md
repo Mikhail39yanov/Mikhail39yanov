@@ -2,13 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=2000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Mikhail%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail)](https://wakatime.com/dashboard) -->
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
  
-### Quote
 > It is very easy to make complex from simple. From the complex - simple, almost impossible.
 
 ### Languages and tools 🛠
