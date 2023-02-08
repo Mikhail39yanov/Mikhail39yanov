@@ -1,11 +1,7 @@
 <h1 align="center"> 
-  
-<!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Mikhail)](https://git.io/typing-svg) -->
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Mikhail" alt="Typing SVG" /></a>
-  <img align="center" src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/Hi.gif" height="32" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Mikhail++%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
- Hi there, I'm Mikhail
-
+ 
 
 <h2 align="center">
   It is very easy to make complex from simple. From the complex - simple, almost impossible.
