@@ -8,18 +8,8 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
  
-
-<h2>
-  Quote
-</h2>
-
-<h2>
-  It is very easy to make complex from simple. From the complex - simple, almost impossible.
-</h2>
-
-<h2>
-  
-</h2>
+### Quote
+> It is very easy to make complex from simple. From the complex - simple, almost impossible.
 
 ### Languages and tools 🛠
 
@@ -42,9 +32,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h2>
-  GitHub Stats 📈
-</h2>
+### GitHub Stats 📈
 
 <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
