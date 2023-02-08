@@ -3,6 +3,8 @@
   <img src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/Hi.gif" height="32" />
 </h1>
 
+>It is very easy to make complex from simple. From the complex - simple, almost impossible.
+
 <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
 </a>
