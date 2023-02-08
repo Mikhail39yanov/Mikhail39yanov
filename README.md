@@ -46,7 +46,7 @@
 [![Mikhail wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/dashboard))
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhail39yanov&repo=internet-agency-solution)](https://github.com/Mikhail39yanov/internet-agency-solution) -->
-
+<img src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/codeStats.svg" alt="My Coding Activity/>
 
 <!--
 **Mikhail39yanov/Mikhail39yanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
