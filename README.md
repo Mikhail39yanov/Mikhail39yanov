@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=2000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Mikhail%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail)](https://wakatime.com/dashboard) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail_Yanov)](https://wakatime.com/dashboard)
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8)
+<!-- [![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8) -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mikhail39yanov&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
