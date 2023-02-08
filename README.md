@@ -9,6 +9,8 @@
 <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent)](https://github.com/Mikhail39yanov)
