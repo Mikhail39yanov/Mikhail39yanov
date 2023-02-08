@@ -13,15 +13,6 @@
   It is very easy to make complex from simple. From the complex - simple, almost impossible.
 </h2>
 
-
-<a href="https://github.com/Mikhail39yanov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
-</a>
-<a href="https://github.com/Mikhail39yanov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
-</a>
-
-
 >
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,6 +32,15 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+GitHub Stats
+<a href="https://github.com/Mikhail39yanov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
+</a>
+<a href="https://github.com/Mikhail39yanov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
+</a>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mikhail39yanov&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
