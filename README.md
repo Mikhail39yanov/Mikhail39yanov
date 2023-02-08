@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mikhail wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov)](https://github.com/anuraghazra/github-readme-stats)
+[![Mikhail wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/dashboard))
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhail39yanov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
