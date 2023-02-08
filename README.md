@@ -1,5 +1,6 @@
 <h1 align="center">
   Hi there, I'm Mikhail
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Mikhail)](https://git.io/typing-svg)
   <img src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/Hi.gif" height="32" />
 </h1>
 
