@@ -3,10 +3,10 @@
 </h1>
 
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail)](https://wakatime.com/dashboard) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail)](https://wakatime.com/dashboard)
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+START_SECTION:waka
+END_SECTION:waka
  
 
 <h2 align="center">
@@ -21,11 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
 
-<!-- <a href="https://github.com/Mikhail39yanov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
-
-  <img align="center" src="https://github.com/Mikhail39yanov/Mikhail39yanov/blob/master/codeStats.svg" alt="My Coding Activity" />
-</a> -->
 
 >
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,12 +45,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mikhail39yanov&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent)](https://github.com/Mikhail39yanov)
-
-![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikhail39yanov&repo=internet-agency-solution)](https://github.com/Mikhail39yanov/internet-agency-solution) -->
-
 
 <!--
 **Mikhail39yanov/Mikhail39yanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
