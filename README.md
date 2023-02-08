@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Mikhail
+<h1 align="center">
+  Hi there, I'm Mikhail
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
 
 <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
@@ -6,6 +9,8 @@
 <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
+  
+  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent)](https://github.com/Mikhail39yanov)
 
 ![Mikhail GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent) -->
