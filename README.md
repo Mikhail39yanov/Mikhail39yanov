@@ -36,6 +36,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
 
+### Education 🎓
+
+[![codewars](https://www.codewars.com/users/Mikhail39yanov/badges/small)](https://www.codewars.com/users/Mikhail39yanov) 
+
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail_Yanov)](https://wakatime.com/dashboard) -->
 
 
