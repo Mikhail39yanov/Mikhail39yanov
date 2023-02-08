@@ -36,7 +36,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail_Yanov)](https://wakatime.com/dashboard)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail_Yanov)](https://wakatime.com/dashboard) -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Mikhail39yanov&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
