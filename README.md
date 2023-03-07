@@ -52,7 +52,7 @@
 ## Contacts 📲
 
 <a href="https://t.me/Mikhail_yanov" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="yandex" height="25" width="25" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="25" width="25" />
 </a>&nbsp;&nbsp;
 <a href="mailto:yanovmikhailco@ya.ru" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" alt="yandex" height="25" width="25" />
