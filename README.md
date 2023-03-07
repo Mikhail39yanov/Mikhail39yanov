@@ -4,7 +4,7 @@
 <!--  Hi there, I'm Mikhail👋 -->
 > It is very easy to make complex from simple. From the complex - simple, almost impossible.
 
-### Languages and tools 🛠
+## Languages and tools 🛠
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-f5f5f5?style=for-the-badge&logo=pug&logoColor=A86454)
@@ -28,7 +28,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-f5f5f5?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-### GitHub Stats 📈
+## GitHub Stats 📈
 
 [![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8)
 <sup>Since January 2023</sup>
@@ -42,9 +42,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
 
-### Education 🎓
+## Education 🎓
 
-[![codewars](https://www.codewars.com/users/Mikhail39yanov/badges/small)](https://www.codewars.com/users/Mikhail39yanov) 
+[![codewars](https://www.codewars.com/users/Mikhail39yanov/badges/small)](https://www.codewars.com/users/Mikhail39yanov)
+
+## Contacts:
+
+<a href="https://t.me/Mikhail_yanov" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="yandex" height="25" width="25" />
+</a>&nbsp;&nbsp;
+
+<a href="mailto:yanovmikhailco@ya.ru" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" alt="yandex" height="25" width="25" />
+</a>&nbsp;&nbsp;
+
+<a href="https://career.habr.com/mikhail_yanov" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1205171034938335232/Hor30ilG_400x400.jpg" alt="habr career" height="25" width="25" /></a>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mikhail_Yanov)](https://wakatime.com/dashboard) -->
 
