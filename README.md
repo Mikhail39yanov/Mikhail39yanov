@@ -49,7 +49,7 @@
 
 [![codewars](https://www.codewars.com/users/Mikhail39yanov/badges/small)](https://www.codewars.com/users/Mikhail39yanov)
 
-## Contacts ![image](https://user-images.githubusercontent.com/84973540/223445966-439798ff-9ab8-4931-958e-289539d754ec.png)
+## Contacts
 
 <a href="https://t.me/Mikhail_yanov" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="yandex" height="25" width="25" />
