@@ -36,8 +36,8 @@
 
 ## GitHub Stats 📈
 
-[![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8)
-<sup>Since January 2023</sup>
+<!-- [![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8)
+<sup>Since January 2023</sup> -->
 
 <!-- ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov&layout=compact&theme=transparent) -->
 
@@ -48,9 +48,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a>
 
-## Education 🎓
+<!-- ## Education 🎓
 
-[![codewars](https://www.codewars.com/users/Mikhail39yanov/badges/small)](https://www.codewars.com/users/Mikhail39yanov)
+[![codewars](https://www.codewars.com/users/Mikhail39yanov/badges/small)](https://www.codewars.com/users/Mikhail39yanov) -->
 
 ## Contacts 📲
 
