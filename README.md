@@ -34,16 +34,16 @@
 ![BEM](https://img.shields.io/badge/-BEM-f5f5f5?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats 📈
+<!-- ## GitHub Stats 📈 -->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/4762c287-47a9-4282-b1c8-a3149ffe73d8.svg)](https://wakatime.com/@4762c287-47a9-4282-b1c8-a3149ffe73d8)
 <sup>Since January 2023</sup> -->
 
 <!-- ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mikhail_Yanov&layout=compact&theme=transparent) -->
 
-<a href="https://github.com/Mikhail39yanov">
+<!-- <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhail39yanov&layout=compact&theme=transparent" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/Mikhail39yanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikhail39yanov&show_icons=true&theme=transparent" />
 </a> -->
