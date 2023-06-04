@@ -3,7 +3,7 @@
 </h1>
 <!--  Hi there, I'm Mikhail👋 -->
 
-#### Graduate student of [Skillbox](https://skillbox.ru) 👨🏽‍🎓
+<!-- #### Graduate student of [Skillbox](https://skillbox.ru) 👨🏽‍🎓 -->
 
 >  It is very easy to make complex from simple. From the complex - simple, almost impossible.
 
